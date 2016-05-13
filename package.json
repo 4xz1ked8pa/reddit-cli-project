@@ -7,7 +7,10 @@
     "inquirer": "^1.0.2",
     "request": "^2.72.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "cli-clear": "^1.0.4",
+    "image-to-ascii": "^3.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
